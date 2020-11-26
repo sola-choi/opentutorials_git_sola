@@ -20,8 +20,6 @@ int _tmain(int argc, _TCHAR* argv[])
 	cout<<"<header>"<<endl;
 	cout<<"<h1>Git</h1>"<<endl;
 	cout<<"<header>"<<endl;
-	cout<<"<ul>"<<endl;
-    cout<<"</ul>"<<endl;
     cout<<"</body>"<<endl;
 	cout<<"</html>"<<endl;
 	return 0;
