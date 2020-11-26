@@ -6,5 +6,12 @@
     <Transaction>2020-11-26 12:58:59.369,D:\007_SourceTree\SourceTreeStudy.cpp=C:\Users\PC-212\OneDrive\문서\Embarcadero\Studio\Projects\File1.cpp</Transaction>
     <Transaction>2020-11-26 12:59:17.426,D:\007_SourceTree\SourceTreeStudyPCH1.h=C:\Users\PC-212\OneDrive\문서\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
     <Transaction>2020-11-26 12:59:20.710,D:\007_SourceTree\SourceTreeStudy.cbproj=C:\Users\PC-212\OneDrive\문서\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2020-11-26 13:25:58.025,=D:\007_SourceTree\File1.cpp</Transaction>
+    <Transaction>2020-11-26 13:26:34.909,D:\007_SourceTree\ReadMe.cpp=D:\007_SourceTree\File1.cpp</Transaction>
   </Transactions>
+  <ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="ReadMe.cpp"/>
+    <File Path="SourceTreeStudy.cpp"/>
+    <File Path="SourceTreeStudyPCH1.h"/>
+  </ProjectSortOrder>
 </BorlandProject>

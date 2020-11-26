@@ -119,6 +119,9 @@
         <BCC_PCHName_Clang>SourceTreeStudyPCH1.h</BCC_PCHName_Clang>
     </PropertyGroup>
     <ItemGroup>
+        <CppCompile Include="ReadMe.cpp">
+            <BuildOrder>2</BuildOrder>
+        </CppCompile>
         <CppCompile Include="SourceTreeStudy.cpp">
             <BuildOrder>1</BuildOrder>
         </CppCompile>
