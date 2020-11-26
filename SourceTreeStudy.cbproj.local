@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2020-11-26 12:58:26.955,=C:\Users\PC-212\OneDrive\문서\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2020-11-26 12:58:27.047,=C:\Users\PC-212\OneDrive\문서\Embarcadero\Studio\Projects\File1.cpp</Transaction>
+    <Transaction>2020-11-26 12:58:59.369,D:\007_SourceTree\SourceTreeStudy.cpp=C:\Users\PC-212\OneDrive\문서\Embarcadero\Studio\Projects\File1.cpp</Transaction>
+    <Transaction>2020-11-26 12:59:17.426,D:\007_SourceTree\SourceTreeStudyPCH1.h=C:\Users\PC-212\OneDrive\문서\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2020-11-26 12:59:20.710,D:\007_SourceTree\SourceTreeStudy.cbproj=C:\Users\PC-212\OneDrive\문서\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
