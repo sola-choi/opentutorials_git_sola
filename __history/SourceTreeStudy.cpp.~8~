@@ -19,7 +19,7 @@ int _tmain(int argc, _TCHAR* argv[])
 	cout<<"	<body>"<<endl;
 	cout<<"		<header>"<<endl;
 	cout<<"			<h1>Git</h1>"<<endl;
-	cout<<"		</header>"<<endl;
+	cout<<"		<header>"<<endl;
 	cout<<"		<ul>"<<endl;
 	cout<<"			<li>Git¿Ã∂ı?</li>"<<endl;
 	cout<<"		</ul>"<<endl;
