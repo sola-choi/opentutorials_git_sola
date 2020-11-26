@@ -9,10 +9,13 @@
 #endif
 
 #include <stdio.h>
+#include <iostream>
 
-int _tmain(int argc, _TCHAR* argv[]) 
+using namespace std;
+
+int _tmain(int argc, _TCHAR* argv[])
 {
-	cout<<"html"<<endl;
-	cout<<"<body></body>"<<endl;
-	return 0;
+	cout<<"Git 수업입니다."<<endl;
+
+    return 0;
 }

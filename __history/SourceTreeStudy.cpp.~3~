@@ -13,6 +13,6 @@
 int _tmain(int argc, _TCHAR* argv[]) 
 {
 	cout<<"html"<<endl;
-	cout<<"<body></body>"<<endl;
+	cout<<"body"<<endl;
 	return 0;
 }
