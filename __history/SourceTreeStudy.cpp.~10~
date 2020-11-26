@@ -18,7 +18,7 @@ int _tmain(int argc, _TCHAR* argv[])
 	cout<<"<html>"<<endl;
 	cout<<"	<head>"<<endl;
 	cout<<"     <title>"<<endl;
-	cout<<"         Git ì†Œê°œ"<<endl;
+	cout<<"         Git ¼Ò°³"<<endl;
 	cout<<"     </title>"<<endl;
 	cout<<"	</head>"<<endl;
 	cout<<"	<body>"<<endl;
@@ -26,9 +26,8 @@ int _tmain(int argc, _TCHAR* argv[])
 	cout<<"			<h1>Git</h1>"<<endl;
 	cout<<"		<header>"<<endl;
 	cout<<"		<ul>"<<endl;
-	cout<<"         <li>Gitì´ë€?</li>"<<endl;
-	cout<<"         <li>ë²„ì „</li>"<<endl;
-    cout<<"         <li>ë¸Œëœì¹˜</li>"<<endl;
+	cout<<"         <li>GitÀÌ¶õ?</li>"<<endl;
+	cout<<"         <li>¹öÀü</li>"<<endl;
 	cout<<"		</ul>"<<endl;
 	cout<<"	</body>"<<endl;
 	cout<<"</html>"<<endl;
