@@ -9,16 +9,10 @@
 #endif
 
 #include <stdio.h>
-#include <iostream>
 
-using namespace std;
-
-int _tmain(int argc, _TCHAR* argv[])
+int _tmain(int argc, _TCHAR* argv[]) 
 {
 	cout<<"html"<<endl;
-	cout<<"<header>"<<endl;
 	cout<<"<body></body>"<<endl;
-	cout<<"</header>"<<endl;
-
 	return 0;
 }
