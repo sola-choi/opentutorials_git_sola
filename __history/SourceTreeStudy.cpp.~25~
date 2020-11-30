@@ -19,7 +19,7 @@ int _tmain(int argc, _TCHAR* argv[])
 	cout<<"	<head>"<<endl;
     cout<<"		<meta chatset="UTF-8"/>"<<endl;
 	cout<<"     <title>"<<endl;
-	cout<<"         introduce Git"<<endl;
+	cout<<"         Git ¼Ò°³"<<endl;
 	cout<<"     </title>"<<endl;
 	cout<<"	</head>"<<endl;
 	cout<<"	<body>"<<endl;
