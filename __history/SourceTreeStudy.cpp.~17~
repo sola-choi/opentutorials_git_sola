@@ -17,7 +17,6 @@ int _tmain(int argc, _TCHAR* argv[])
 {
 	cout<<"<html>"<<endl;
 	cout<<"	<head>"<<endl;
-    cout<<"		<meta chatset="UTF-8"/>"<<endl;
 	cout<<"     <title>"<<endl;
 	cout<<"         Git ¼Ò°³"<<endl;
 	cout<<"     </title>"<<endl;
