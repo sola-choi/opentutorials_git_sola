@@ -27,6 +27,7 @@ int _tmain(int argc, _TCHAR* argv[])
 	cout<<"			<h1>Git</h1>"<<endl;
 	cout<<"		<header>"<<endl;
 	cout<<"		<ul>"<<endl;
+	cout<<"         <li>sync.egoinh</li>"<<endl;
 	cout<<"         <li>Git이란?</li>"<<endl;
 	cout<<"         <li>버전</li>"<<endl;
 	cout<<"         <li>Branch</li>"<<endl;
