@@ -27,6 +27,7 @@ int _tmain(int argc, _TCHAR* argv[])
 	cout<<"			<h1>Git</h1>"<<endl;
 	cout<<"		<header>"<<endl;
 	cout<<"		<ul>"<<endl;
+	cout<<"         <li>sync.egoinh</li>"<<endl;
 	cout<<"         <li>Git이란?</li>"<<endl;
 	cout<<"         <li>버전</li>"<<endl;
 	cout<<"         <li>Branch</li>"<<endl;
@@ -38,6 +39,7 @@ int _tmain(int argc, _TCHAR* argv[])
 	cout<<"         <li>pull</li>"<<endl;
 	cout<<"         <li>push</li>"<<endl;
 	cout<<"         <li>pull.clone</li>"<<endl;
+	cout<<"         <li>comflict.egoing</li>"<<endl;
 	cout<<"         <li>conflict.clone</li>"<<endl;
 	cout<<"		</ul>"<<endl;
 	cout<<"	</body>"<<endl;
