@@ -43,6 +43,7 @@ int _tmain(int argc, _TCHAR* argv[])
 	cout<<"         <li>conflict.clone</li>"<<endl;
 	cout<<"         <li>╫╨еб╫ц</li>"<<endl;
 	cout<<"         <li>stas</li>"<<endl;
+	cout<<"         <li>ignore</li>"<<endl;
 	cout<<"		</ul>"<<endl;
 	cout<<"	</body>"<<endl;
 	cout<<"</html>"<<endl;
