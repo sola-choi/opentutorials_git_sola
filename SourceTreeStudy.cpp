@@ -39,7 +39,8 @@ int _tmain(int argc, _TCHAR* argv[])
 	cout<<"         <li>pull</li>"<<endl;
 	cout<<"         <li>push</li>"<<endl;
 	cout<<"         <li>pull.clone</li>"<<endl;
-    cout<<"         <li>comflict.egoing</li>"<<endl;
+	cout<<"         <li>comflict.egoing</li>"<<endl;
+	cout<<"         <li>conflict.clone</li>"<<endl;
 	cout<<"		</ul>"<<endl;
 	cout<<"	</body>"<<endl;
 	cout<<"</html>"<<endl;
