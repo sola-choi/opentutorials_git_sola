@@ -37,7 +37,8 @@ int _tmain(int argc, _TCHAR* argv[])
 	cout<<"         <li>원격저장소</li>"<<endl;
 	cout<<"         <li>push</li>"<<endl;
 	cout<<"         <li>pull</li>"<<endl;
-    cout<<"         <li>push</li>"<<endl;
+	cout<<"         <li>push</li>"<<endl;
+    cout<<"         <li>pull.clone</li>"<<endl;
 	cout<<"		</ul>"<<endl;
 	cout<<"	</body>"<<endl;
 	cout<<"</html>"<<endl;
