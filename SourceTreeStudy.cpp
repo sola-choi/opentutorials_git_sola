@@ -35,7 +35,8 @@ int _tmain(int argc, _TCHAR* argv[])
 	cout<<"         <li>충돌 해결</li>"<<endl;
 	cout<<"         <li>원격저장소</li>"<<endl;
 	cout<<"         <li>push</li>"<<endl;
-    cout<<"         <li>pull</li>"<<endl;
+	cout<<"         <li>pull</li>"<<endl;
+    cout<<"         <li>push</li>"<<endl;
 	cout<<"		</ul>"<<endl;
 	cout<<"	</body>"<<endl;
 	cout<<"</html>"<<endl;
@@ -43,4 +44,3 @@ int _tmain(int argc, _TCHAR* argv[])
 	getchar();
 	return 0;
 }
-
